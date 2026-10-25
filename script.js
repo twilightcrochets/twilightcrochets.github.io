@@ -511,7 +511,7 @@
        1. Go to https://web3forms.com, type the email that should receive orders,
           and they email you an "Access Key".
        2. Paste that key below between the quotes.                              */
-  const WEB3FORMS_ACCESS_KEY = 'f69ca069-ead1-478b-af9b-589323add10c';
+  const WEB3FORMS_ACCESS_KEY = 'eafb4be4-7db6-4401-aa45-7d6000e26b35';
   const INSTAGRAM_URL = 'https://www.instagram.com/twilight_crochet.s/';
 
   const dlg = $('#orderDialog'), form = $('#orderForm');
